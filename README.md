@@ -2,7 +2,7 @@
 
 Este proyecto es un sitio web para l restarante
 
-Tiene varias paginas incluido: index.html,cuerpo.html
+Tiene varias paginas incluido: `index.html`,`cuerpo.html`
 
 ## Documentacion
 
@@ -12,7 +12,13 @@ Tiene varias paginas incluido: index.html,cuerpo.html
 ## Ejemplo de codigo HTML
 Para añadir un  bloque de instrucciones es
 
-````
+```
 <html></html>
 
 ```
+
+## Autores
+
+1. Paul
+2. Edwin
+3. Maur
